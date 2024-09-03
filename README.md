@@ -1,5 +1,3 @@
-# Swin-Unet-Unet-like-Pure-Transformer-for-Brain-Tumor-Segmentation
-
 # Swin-Unet: A Pure Transformer-Based Model for Brain Tumor Segmentation
 
 This repository contains the implementation of **Swin-Unet**, a novel model designed for brain tumor segmentation using 2D medical images. Swin-Unet leverages the power of the Swin Transformer within a U-Net-like architecture, providing significant improvements in accuracy and generalization over traditional convolutional neural networks (CNNs).
